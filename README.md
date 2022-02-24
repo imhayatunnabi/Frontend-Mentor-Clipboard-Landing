@@ -30,7 +30,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/desktop-screenshot.png)
-![](./images/solution-screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -42,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://github.com/imhayatunnabi/Frontend-Mentor-Clipboard-Landing)
+- Live Site URL: [Live site URL ](https://frontend-mentor-clipboard-landing-imhayatunnabi.netlify.app/)
 
 ## My process
 
@@ -101,9 +100,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@imhayatunnabi](https://www.frontendmentor.io/profile/imhayatunnabi)
+- Facebook - [@imhayatunnabi](https://www.facebook.com/imhayatunnabi)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
